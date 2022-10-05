@@ -38,6 +38,7 @@ export default function Nav() {
           </ul>
         </div>
       </nav>
+      <hr />
     </div>
   );
 }
